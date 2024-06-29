@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T12:22:20.378Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Q6xJLTw7wxjqQ1brwje-" version="24.6.4" type="github" pages="2">
-  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Conceptual Diagram">
+<mxfile host="app.diagrams.net" modified="2024-06-29T13:28:27.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="m0hsM6JoRLg7yb5vLuV_" version="24.6.4" type="github" pages="3">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Conceptual Diagram (CrickBuzz)">
     <mxGraphModel dx="1600" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
@@ -100,7 +100,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="zJNTPXM1QJ8zsuH3TLgR" name="Entity Relation Diagram">
+  <diagram id="zJNTPXM1QJ8zsuH3TLgR" name="Entity Relation Diagram(CrickBuzz)">
     <mxGraphModel dx="3354" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -914,6 +914,14 @@
             <mxPoint x="-30" y="805" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="uIn1KcV6h6-FoZ_-4P9g" name="Conceptual Diagram (Book My Show)">
+    <mxGraphModel dx="1360" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
